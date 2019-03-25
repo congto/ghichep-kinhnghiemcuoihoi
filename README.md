@@ -2,7 +2,7 @@
 
 Các ghi chép về thủ tục cưới hỏi, các bước chuẩn bị được ghi chép được đóng góp tại đây
 
-## Cách contribute
+## Cách Contributors
 
 1. Fork repo về git cá nhân.
 2. Tạo file với cú pháp `Ho_Va_Ten.md`. Ví dụ `ToThanhCong.md`
